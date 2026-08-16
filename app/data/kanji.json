@@ -1,0 +1,2400 @@
+[
+  {
+    "number": 1001,
+    "kanji": "審",
+    "onyomi": "シン",
+    "kunyomi": null,
+    "vocabulary": [
+      {
+        "japanese": "審査",
+        "reading": "しんさ",
+        "myanmar": "စစ်ဆေးစိစစ်ခြင်း",
+        "english": "An examination, an inspection"
+      },
+      {
+        "japanese": "審判",
+        "reading": "しんぱん",
+        "myanmar": "ဒိုင်လူကြီး / တရားစီရင်ခြင်း",
+        "english": "Judgement, a judge"
+      },
+      {
+        "japanese": "不審な",
+        "reading": "ふしんな",
+        "myanmar": "မသင်္ကာဖွယ်ကောင်းသော",
+        "english": "Dubious, suspicious"
+      },
+      {
+        "japanese": "審議する",
+        "reading": "しんぎする",
+        "myanmar": "စိစစ်ဆွေးနွေးသည်",
+        "english": "To deliberate"
+      }
+    ]
+  },
+  {
+    "number": 1002,
+    "kanji": "証",
+    "onyomi": "ショウ",
+    "kunyomi": null,
+    "vocabulary": [
+      {
+        "japanese": "査証",
+        "reading": "さしょう",
+        "myanmar": "ဗီဇာ",
+        "english": "A visa"
+      },
+      {
+        "japanese": "証拠",
+        "reading": "しょうこ",
+        "myanmar": "သက်သေ / သက်သေအထောက်အထား",
+        "english": "Proof, evidence"
+      },
+      {
+        "japanese": "健康保険証",
+        "reading": "けんこうほけんしょう",
+        "myanmar": "ကျန်းမာရေးအာမခံကတ်",
+        "english": "A health insurance card"
+      },
+      {
+        "japanese": "学生証",
+        "reading": "がくせいしょう",
+        "myanmar": "ကျောင်းသားကတ်",
+        "english": "Student ID card"
+      },
+      {
+        "japanese": "証明する",
+        "reading": "しょうめいする",
+        "myanmar": "သက်သေပြသည်",
+        "english": "To prove, to certify"
+      },
+      {
+        "japanese": "保証する",
+        "reading": "ほしょうする",
+        "myanmar": "အာမခံသည်",
+        "english": "To guarantee"
+      }
+    ]
+  },
+  {
+    "number": 1003,
+    "kanji": "貼",
+    "onyomi": "チョウ",
+    "kunyomi": "は-る",
+    "vocabulary": [
+      {
+        "japanese": "貼付する",
+        "reading": "ちょうふする",
+        "myanmar": "ကပ်သည် / ပူးတွဲကပ်သည်",
+        "english": "To stick"
+      },
+      {
+        "japanese": "貼る",
+        "reading": "はる",
+        "myanmar": "ကပ်သည်",
+        "english": "To stick"
+      }
+    ]
+  },
+  {
+    "number": 1004,
+    "kanji": "紋",
+    "onyomi": "モン",
+    "kunyomi": null,
+    "vocabulary": [
+      {
+        "japanese": "指紋",
+        "reading": "しもん",
+        "myanmar": "လက်ဗွေ",
+        "english": "A fingerprint"
+      }
+    ]
+  },
+  {
+    "number": 1005,
+    "kanji": "撮",
+    "onyomi": "サツ",
+    "kunyomi": "と-る",
+    "vocabulary": [
+      {
+        "japanese": "撮影する",
+        "reading": "さつえいする",
+        "myanmar": "ဓာတ်ပုံ/ရုပ်ရှင် ရိုက်ကူးသည်",
+        "english": "To take a photograph, to make a film"
+      },
+      {
+        "japanese": "撮る",
+        "reading": "とる",
+        "myanmar": "ဓာတ်ပုံရိုက်သည်",
+        "english": "To take a photograph, to make a film"
+      }
+    ]
+  },
+  {
+    "number": 1006,
+    "kanji": "影",
+    "onyomi": "エイ",
+    "kunyomi": "かげ",
+    "vocabulary": [
+      {
+        "japanese": "影響する",
+        "reading": "えいきょうする",
+        "myanmar": "ရိုက်ခတ်မှုရှိသည် / သက်ရောက်မှုရှိသည်",
+        "english": "To influence, to have an effect"
+      },
+      {
+        "japanese": "影",
+        "reading": "かげ",
+        "myanmar": "အရိပ်",
+        "english": "A shadow"
+      },
+      {
+        "japanese": "人影",
+        "reading": "ひとかげ",
+        "myanmar": "လူရိပ်",
+        "english": "The shadow of a person"
+      }
+    ]
+  },
+  {
+    "number": 1007,
+    "kanji": "麻",
+    "onyomi": "マ",
+    "kunyomi": "あさ",
+    "vocabulary": [
+      {
+        "japanese": "麻酔",
+        "reading": "ますい",
+        "myanmar": "မေ့ဆေး / ထုံဆေး",
+        "english": "Anesthesia"
+      },
+      {
+        "japanese": "麻薬",
+        "reading": "まやく",
+        "myanmar": "မူးယစ်ဆေးဝါး",
+        "english": "A drug"
+      },
+      {
+        "japanese": "麻",
+        "reading": "あさ",
+        "myanmar": "ဂုံလျှော် / သျှော်မျှင်",
+        "english": "Hemp"
+      }
+    ]
+  },
+  {
+    "number": 1008,
+    "kanji": "醒",
+    "onyomi": "セイ",
+    "kunyomi": null,
+    "vocabulary": [
+      {
+        "japanese": "覚醒剤",
+        "reading": "かくせいざい",
+        "myanmar": "စိတ်ကြွဆေး",
+        "english": "A stimulant (drug)"
+      }
+    ]
+  },
+  {
+    "number": 1009,
+    "kanji": "剤",
+    "onyomi": "ザイ",
+    "kunyomi": null,
+    "vocabulary": [
+      {
+        "japanese": "洗剤",
+        "reading": "せんざい",
+        "myanmar": "ဆပ်ပြာမှုန့် / ဆပ်ပြာရည်",
+        "english": "A detergent"
+      },
+      {
+        "japanese": "錠剤",
+        "reading": "じょうざい",
+        "myanmar": "ဆေးပြား",
+        "english": "A pill, a tablet"
+      }
+    ]
+  },
+  {
+    "number": 1010,
+    "kanji": "拳",
+    "onyomi": "ケン",
+    "kunyomi": null,
+    "vocabulary": [
+      {
+        "japanese": "拳銃",
+        "reading": "けんじゅう",
+        "myanmar": "လက်ကိုင်သေနတ် / ပစ္စတို",
+        "english": "A pistol, a (hand) gun"
+      }
+    ]
+  },
+  {
+    "number": 1011,
+    "kanji": "銃",
+    "onyomi": "ジュウ",
+    "kunyomi": null,
+    "vocabulary": [
+      {
+        "japanese": "銃",
+        "reading": "じゅう",
+        "myanmar": "သေနတ်",
+        "english": "A gun, a rifle"
+      }
+    ]
+  },
+  {
+    "number": 1012,
+    "kanji": "砲",
+    "onyomi": "ホウ",
+    "kunyomi": null,
+    "vocabulary": [
+      {
+        "japanese": "鉄砲",
+        "reading": "てっぽう",
+        "myanmar": "သေနတ်",
+        "english": "A gun, a rifle"
+      },
+      {
+        "japanese": "銃砲類",
+        "reading": "じゅうほうるい",
+        "myanmar": "သေနတ်နှင့် အမြောက်အမျိုးအစားများ",
+        "english": "Gunnery"
+      }
+    ]
+  },
+  {
+    "number": 1013,
+    "kanji": "偽",
+    "onyomi": "ギ",
+    "kunyomi": "にせ / いつわ-る",
+    "vocabulary": [
+      {
+        "japanese": "偽造する",
+        "reading": "ぎぞうする",
+        "myanmar": "အတုပြုလုပ်သည်",
+        "english": "To forge, to counterfeit"
+      },
+      {
+        "japanese": "偽造品",
+        "reading": "ぎぞうひん",
+        "myanmar": "အတုအပ ပစ္စည်း",
+        "english": "A fake"
+      },
+      {
+        "japanese": "偽(の)",
+        "reading": "にせ(の)",
+        "myanmar": "အတုဖြစ်သော",
+        "english": "False, counterfeit, fake"
+      },
+      {
+        "japanese": "偽物",
+        "reading": "にせもの",
+        "myanmar": "ပစ္စည်းအတု",
+        "english": "An imitation, a counterfeit, a forgery"
+      },
+      {
+        "japanese": "偽る",
+        "reading": "いつわる",
+        "myanmar": "လှည့်ဖြားသည် / လိမ်ညာသည်",
+        "english": "To disguise, to lie"
+      }
+    ]
+  },
+  {
+    "number": 1014,
+    "kanji": "侵",
+    "onyomi": "シン",
+    "kunyomi": "おか-す",
+    "vocabulary": [
+      {
+        "japanese": "侵入する",
+        "reading": "しんにゅうする",
+        "myanmar": "ကျူးကျော်ဝင်ရောက်သည်",
+        "english": "To invade, to break in, to trespass"
+      },
+      {
+        "japanese": "侵害する",
+        "reading": "しんがいする",
+        "myanmar": "ထိပါးကျူးကျော်သည် (အခွင့်အရေး စသည်)",
+        "english": "To infringe"
+      },
+      {
+        "japanese": "侵す",
+        "reading": "おかす",
+        "myanmar": "ကျူးကျော်သည် / ချိုးဖောက်သည်",
+        "english": "To invade, to violate"
+      }
+    ]
+  },
+  {
+    "number": 1015,
+    "kanji": "猟",
+    "onyomi": "リョウ",
+    "kunyomi": null,
+    "vocabulary": [
+      {
+        "japanese": "猟銃",
+        "reading": "りょうじゅう",
+        "myanmar": "အမဲလိုက်သေနတ်",
+        "english": "A shotgun, a hunting rifle"
+      },
+      {
+        "japanese": "狩猟",
+        "reading": "しゅりょう",
+        "myanmar": "အမဲလိုက်ခြင်း",
+        "english": "Hunting"
+      }
+    ]
+  },
+  {
+    "number": 1016,
+    "kanji": "刀",
+    "onyomi": "トウ",
+    "kunyomi": "かたな",
+    "vocabulary": [
+      {
+        "japanese": "刀剣",
+        "reading": "とうけん",
+        "myanmar": "ဓား / ဓားရှည်",
+        "english": "A sword, a dagger"
+      },
+      {
+        "japanese": "単刀直入に",
+        "reading": "たんとうちょくにゅうに",
+        "myanmar": "လိုရင်းတိုရှင်း / ဒဲ့တိုး (စကားပြောရာတွင်)",
+        "english": "Directly, straightforwardly, point-blank"
+      },
+      {
+        "japanese": "刀",
+        "reading": "かたな",
+        "myanmar": "ဂျပန်ဓားရှည်",
+        "english": "A sword"
+      }
+    ]
+  },
+  {
+    "number": 1017,
+    "kanji": "剣",
+    "onyomi": "ケン",
+    "kunyomi": null,
+    "vocabulary": [
+      {
+        "japanese": "真剣な",
+        "reading": "しんけんな",
+        "myanmar": "တည်ကြည်လေးနက်သော / အတည်အမှန်ဖြစ်သော",
+        "english": "Serious"
+      }
+    ]
+  },
+  {
+    "number": 1018,
+    "kanji": "疫",
+    "onyomi": "エキ",
+    "kunyomi": null,
+    "vocabulary": [
+      {
+        "japanese": "検疫",
+        "reading": "けんえき",
+        "myanmar": "ရောဂါထိန်းချုပ်ရေး စစ်ဆေးခြင်း / ကွာရင်တင်း",
+        "english": "Quarantine"
+      },
+      {
+        "japanese": "免疫",
+        "reading": "めんえき",
+        "myanmar": "ရောဂါခုခံအား",
+        "english": "Immunity"
+      }
+    ]
+  },
+  {
+    "number": 1019,
+    "kanji": "罰",
+    "onyomi": "バツ",
+    "kunyomi": null,
+    "vocabulary": [
+      {
+        "japanese": "罰",
+        "reading": "ばつ",
+        "myanmar": "ပြစ်ဒဏ်",
+        "english": "Punishment, a penalty"
+      },
+      {
+        "japanese": "刑罰",
+        "reading": "けいばつ",
+        "myanmar": "ရာဇဝတ်ဒဏ်",
+        "english": "A penalty, punishment"
+      },
+      {
+        "japanese": "罰する",
+        "reading": "ばっする",
+        "myanmar": "အပြစ်ပေးသည် / အရေးယူသည်",
+        "english": "To punish, to penalize"
+      },
+      {
+        "japanese": "処罰する",
+        "reading": "しょばつする",
+        "myanmar": "ပြစ်ဒဏ်ခတ်သည်",
+        "english": "To punish"
+      }
+    ]
+  },
+  {
+    "number": 1020,
+    "kanji": "奨",
+    "onyomi": "ショウ",
+    "kunyomi": null,
+    "vocabulary": [
+      {
+        "japanese": "奨学金",
+        "reading": "しょうがくきん",
+        "myanmar": "ပညာသင်ဆု",
+        "english": "A scholarship"
+      },
+      {
+        "japanese": "奨学生",
+        "reading": "しょうがくせい",
+        "myanmar": "ပညာသင်ဆုရ ကျောင်းသား",
+        "english": "A scholarship student"
+      },
+      {
+        "japanese": "奨励する",
+        "reading": "しょうれいする",
+        "myanmar": "တိုက်တွန်းအားပေးသည် / မြှင့်တင်ပေးသည်",
+        "english": "To encourage"
+      }
+    ]
+  },
+  {
+    "number": 1021,
+    "kanji": "該",
+    "onyomi": "ガイ",
+    "kunyomi": null,
+    "vocabulary": [
+      {
+        "japanese": "該当する",
+        "reading": "がいとうする",
+        "myanmar": "အကျုံးဝင်သည် / ကိုက်ညီသည်",
+        "english": "To fall under, to be applicable"
+      }
+    ]
+  },
+  {
+    "number": 1022,
+    "kanji": "没",
+    "onyomi": "ボツ",
+    "kunyomi": null,
+    "vocabulary": [
+      {
+        "japanese": "没収する",
+        "reading": "ぼっしゅうする",
+        "myanmar": "သိမ်းဆည်းသည် / ပြည်သူ့ဘဏ္ဍာအဖြစ် သိမ်းသည်",
+        "english": "To confiscate"
+      },
+      {
+        "japanese": "沈没する",
+        "reading": "ちんぼつする",
+        "myanmar": "မြုပ်စနစ်သည် (သင်္ဘော စသည်)",
+        "english": "To sink"
+      },
+      {
+        "japanese": "没頭する",
+        "reading": "ぼっとうする",
+        "myanmar": "စိတ်နှစ်ထားသည် / အာရုံစိုက်လုပ်ဆောင်သည်",
+        "english": "To be absorbed in"
+      }
+    ]
+  },
+  {
+    "number": 1023,
+    "kanji": "態",
+    "onyomi": "タイ",
+    "kunyomi": null,
+    "vocabulary": [
+      {
+        "japanese": "状態",
+        "reading": "じょうたい",
+        "myanmar": "အခြေအနေ",
+        "english": "A state, conditions"
+      },
+      {
+        "japanese": "形態",
+        "reading": "けいたい",
+        "myanmar": "ပုံသဏ္ဌာန် / ဖွဲ့စည်းပုံ",
+        "english": "Shape, form"
+      },
+      {
+        "japanese": "態度",
+        "reading": "たいど",
+        "myanmar": "အပြုအမူ / သဘောထား",
+        "english": "Attitude, manner, behavior"
+      }
+    ]
+  },
+  {
+    "number": 1024,
+    "kanji": "舎",
+    "onyomi": "シャ",
+    "kunyomi": null,
+    "vocabulary": [
+      {
+        "japanese": "校舎",
+        "reading": "こうしゃ",
+        "myanmar": "ကျောင်းဆောင်",
+        "english": "A school building, a schoolhouse"
+      },
+      {
+        "japanese": "宿舎",
+        "reading": "しゅくしゃ",
+        "myanmar": "အဆောင် / တည်းခိုရာနေရာ",
+        "english": "Lodgings, accommodations"
+      },
+      {
+        "japanese": "田舎",
+        "reading": "いなか",
+        "myanmar": "ကျေးလက်တောရွာ / မွေးရပ်မြေ",
+        "english": "The country, one's hometown"
+      }
+    ]
+  },
+    {
+    "number": 1025,
+    "kanji": "寮",
+    "onyomi": "リョウ",
+    "kunyomi": null,
+    "vocabulary": [
+      {
+        "japanese": "寮",
+        "reading": "りょう",
+        "myanmar": "အဆောင်",
+        "english": "A dormitory"
+      }
+    ]
+  },
+  {
+    "number": 1026,
+    "kanji": "抽",
+    "onyomi": "チュウ",
+    "kunyomi": null,
+    "vocabulary": [
+      {
+        "japanese": "抽選",
+        "reading": "ちゅうせん",
+        "myanmar": "မဲနှိုက်ခြင်း",
+        "english": "A lot"
+      },
+      {
+        "japanese": "抽象的な",
+        "reading": "ちゅうしょうてきな",
+        "myanmar": "စိတ်ကူးယဉ်ဆန်သော / နာမ်တရားဆန်သော",
+        "english": "Abstract"
+      }
+    ]
+  },
+  {
+    "number": 1027,
+    "kanji": "謝",
+    "onyomi": "シャ",
+    "kunyomi": "あやま-る",
+    "vocabulary": [
+      {
+        "japanese": "感謝する",
+        "reading": "かんしゃする",
+        "myanmar": "ကျေးဇူးတင်သည်",
+        "english": "To thank"
+      },
+      {
+        "japanese": "謝礼",
+        "reading": "しゃれい",
+        "myanmar": "ဉာဏ်ပူဇော်ခ / ကျေးဇူးတုံ့ပြန်ဆုကြေး",
+        "english": "Fee, gratuity, a reward"
+      },
+      {
+        "japanese": "謝罪する",
+        "reading": "しゃざいする",
+        "myanmar": "တောင်းပန်သည်",
+        "english": "To apologize"
+      },
+      {
+        "japanese": "謝る",
+        "reading": "あやまる",
+        "myanmar": "တောင်းပန်သည်",
+        "english": "To apologize"
+      }
+    ]
+  },
+  {
+    "number": 1028,
+    "kanji": "敷",
+    "onyomi": null,
+    "kunyomi": "し-く",
+    "vocabulary": [
+      {
+        "japanese": "敷く",
+        "reading": "しく",
+        "myanmar": "ခင်းသည်",
+        "english": "To spread, to cover"
+      },
+      {
+        "japanese": "敷金",
+        "reading": "しききん",
+        "myanmar": "စံပယ်တင်ငွေ / အာမခံစက်ကြေး (အိမ်ငှားရာတွင်)",
+        "english": "A deposit"
+      },
+      {
+        "japanese": "敷地",
+        "reading": "しきち",
+        "myanmar": "မြေကွက် / ဝင်းအတွင်းမြေ",
+        "english": "A lot, a site"
+      },
+      {
+        "japanese": "屋敷",
+        "reading": "やしき",
+        "myanmar": "စံအိမ် / အိမ်ကြီးရံအိမ်",
+        "english": "A mansion, a residence"
+      }
+    ]
+  },
+  {
+    "number": 1029,
+    "kanji": "契",
+    "onyomi": "ケイ",
+    "kunyomi": null,
+    "vocabulary": [
+      {
+        "japanese": "契機",
+        "reading": "けいき",
+        "myanmar": "အခွင့်အရေး / အခွင့်အခါ",
+        "english": "An opportunity, a chance"
+      },
+      {
+        "japanese": "契約する",
+        "reading": "けいやくする",
+        "myanmar": "စာချုပ်ချုပ်ဆိုသည်",
+        "english": "To contract"
+      }
+    ]
+  },
+  {
+    "number": 1030,
+    "kanji": "却",
+    "onyomi": "キャク",
+    "kunyomi": null,
+    "vocabulary": [
+      {
+        "japanese": "返却する",
+        "reading": "へんきゃくする",
+        "myanmar": "ပြန်လည်အပ်နှံသည်",
+        "english": "To return"
+      },
+      {
+        "japanese": "脱却する",
+        "reading": "だっきゃくする",
+        "myanmar": "ရုန်းထွက်သည် / ဖယ်ရှားသည်",
+        "english": "To slough off, to shake off"
+      },
+      {
+        "japanese": "冷却する",
+        "reading": "れいきゃくする",
+        "myanmar": "အေးခဲစေသည် / အေးအောင်လုပ်သည်",
+        "english": "To cool, to refrigerate"
+      }
+    ]
+  },
+  {
+    "number": 1031,
+    "kanji": "旋",
+    "onyomi": "セン",
+    "kunyomi": null,
+    "vocabulary": [
+      {
+        "japanese": "斡旋する",
+        "reading": "あっせんする",
+        "myanmar": "စေ့စပ်ညှိနှိုင်းပေးသည် / ကြားဝင်ဆောင်ရွက်ပေးသည်",
+        "english": "To mediate"
+      }
+    ]
+  },
+  {
+    "number": 1032,
+    "kanji": "詳",
+    "onyomi": "ショウ",
+    "kunyomi": "くわ-しい",
+    "vocabulary": [
+      {
+        "japanese": "詳細",
+        "reading": "しょうさい",
+        "myanmar": "အသေးစိတ် အချက်အလက်",
+        "english": "Details"
+      },
+      {
+        "japanese": "詳しい",
+        "reading": "くわしい",
+        "myanmar": "အသေးစိတ်ကျသော / နှံ့နှံ့စပ်စပ်သိသော",
+        "english": "Detailed"
+      }
+    ]
+  },
+  {
+    "number": 1033,
+    "kanji": "施",
+    "onyomi": "シ",
+    "kunyomi": "ほどこ-す",
+    "vocabulary": [
+      {
+        "japanese": "施設",
+        "reading": "しせつ",
+        "myanmar": "အဆောက်အအုံ / အဖွဲ့အစည်း / စက်ရုံ၊ အလုပ်ရုံ",
+        "english": "Facilities / Institution"
+      },
+      {
+        "japanese": "実施する",
+        "reading": "じっしする",
+        "myanmar": "အကောင်အထည်ဖော်သည် / စတင်ဆောင်ရွက်သည်",
+        "english": "To put into effect / To carry out"
+      },
+      {
+        "japanese": "施工する",
+        "reading": "せこうする / しこうする",
+        "myanmar": "ဆောက်လုပ်ရေး လုပ်ငန်း ဆောင်ရွက်သည်",
+        "english": "To construct"
+      },
+      {
+        "japanese": "施行する",
+        "reading": "しこうする / せこうする",
+        "myanmar": "ဥပဒေ၊ စည်းမျဉ်းများကို စတင်ကျင့်သုံးသည် / အာဏာတည်စေသည်",
+        "english": "To enforce / To carry out"
+      },
+      {
+        "japanese": "施す",
+        "reading": "ほどこす",
+        "myanmar": "လှူဒါန်းသည် / ပေးကမ်းသည် / ပြုလုပ်ပေးသည်",
+        "english": "To give / To do / To perform"
+      }
+    ]
+  },
+  {
+    "number": 1034,
+    "kanji": "廃",
+    "onyomi": "ハイ",
+    "kunyomi": "すた-れる / すた-る",
+    "vocabulary": [
+      {
+        "japanese": "廃止する",
+        "reading": "はいしする",
+        "myanmar": "ပယ်ဖျက်သည် / ရုပ်သိမ်းသည်",
+        "english": "To abolish"
+      },
+      {
+        "japanese": "荒廃する",
+        "reading": "こうはいする",
+        "myanmar": "ပျက်စီးယိုယွင်းသည်",
+        "english": "To go to ruin"
+      },
+      {
+        "japanese": "廃絶する",
+        "reading": "はいぜつする",
+        "myanmar": "အပြီးတိုင် ပျောက်ကွယ်သွားသည် / မျိုးတုန်းသွားသည်",
+        "english": "To abolish / To eliminate"
+      },
+      {
+        "japanese": "廃棄する",
+        "reading": "はいきする",
+        "myanmar": "စွန့်ပစ်သည် / စွန့်လွှတ်သည်",
+        "english": "To dispose / To scrap"
+      },
+      {
+        "japanese": "すたる / すたれる",
+        "reading": "すたる / すたれる",
+        "myanmar": "ခေတ်ကုန်သွားသည် / မှေးမှိန်သွားသည်",
+        "english": "To go out of use / To become obsolete"
+      }
+    ]
+  },
+  {
+    "number": 1035,
+    "kanji": "載",
+    "onyomi": "サイ",
+    "kunyomi": "の-せる / の-る",
+    "vocabulary": [
+      {
+        "japanese": "記載する",
+        "reading": "きさいする",
+        "myanmar": "မှတ်တမ်းတင်သည် / ရေးသားဖော်ပြသည်",
+        "english": "To record / To enter"
+      },
+      {
+        "japanese": "掲載する",
+        "reading": "けいさいする",
+        "myanmar": "သတင်းစာ၊ စာစောင်များတွင် ဖော်ပြပါရှိသည်",
+        "english": "To publish / To carry"
+      },
+      {
+        "japanese": "載る",
+        "reading": "のる",
+        "myanmar": "စာအုပ်၊ သတင်းစာ စသည်တို့တွင် ဖော်ပြခံရသည် / တင်သည်",
+        "english": "To be on / To appear"
+      },
+      {
+        "japanese": "載せる",
+        "reading": "のせる",
+        "myanmar": "ယာဉ်ပေါ်သို့ တင်သည် / စာအုပ်၊ စာမျက်နှာတွင် ဖော်ပြသည်",
+        "english": "To put on / To publish"
+      }
+    ]
+  },
+  {
+    "number": 1036,
+    "kanji": "氏",
+    "onyomi": "シ",
+    "kunyomi": "うじ",
+    "vocabulary": [
+      {
+        "japanese": "氏名",
+        "reading": "しめい",
+        "myanmar": "အမည်အပြည့်အစုံ",
+        "english": "Full name"
+      },
+      {
+        "japanese": "～氏",
+        "reading": "～し",
+        "myanmar": "... ခင်ဗျာ / ... မမ / ... စု (အမည်နောက်တွင် တာဝန်အရ ယဉ်ကျေးစွာ ခေါ်ဝေါ်သောစကား)",
+        "english": "Mr. / Ms."
+      }
+    ]
+  },
+  {
+    "number": 1037,
+    "kanji": "及",
+    "onyomi": "キュウ",
+    "kunyomi": "およ-ぶ / およ-ぼす / およ-び",
+    "vocabulary": [
+      {
+        "japanese": "普及する",
+        "reading": "ふきゅうする",
+        "myanmar": "ကျယ်ကျယ်ပြန့်ပြန့် ခေတ်စားလာသည် / ပြန့်ပွားသည်",
+        "english": "To spread / To popularize"
+      },
+      {
+        "japanese": "追及する",
+        "reading": "ついきゅうする",
+        "myanmar": "စုံစမ်းစစ်ဆေးသည် / အမှန်တရားကို လိုက်လံစုံစမ်းသည်",
+        "english": "To investigate / To pursue"
+      },
+      {
+        "japanese": "及ぶ",
+        "reading": "およぶ",
+        "myanmar": "ရောက်ရှိသည် / သက်ရောက်သည်",
+        "english": "To reach / To extend"
+      },
+      {
+        "japanese": "及ぼす",
+        "reading": "およぼす",
+        "myanmar": "အကျိုးသက်ရောက်မှု ပေးသည် / ထိခိုက်စေသည်",
+        "english": "To influence / To affect"
+      },
+      {
+        "japanese": "及び",
+        "reading": "および",
+        "myanmar": "နှင့် / ထို့အပြင်",
+        "english": "And / As well as"
+      }
+    ]
+  },
+  {
+    "number": 1038,
+    "kanji": "籍",
+    "onyomi": "セキ",
+    "kunyomi": null,
+    "vocabulary": [
+      {
+        "japanese": "国籍",
+        "reading": "こくせき",
+        "myanmar": "နိုင်ငံသားဖြစ်ခွင့် / နိုင်ငံသားစစ်စစ်ဖြစ်မှု",
+        "english": "Nationality"
+      },
+      {
+        "japanese": "書籍",
+        "reading": "しょせき",
+        "myanmar": "စာအုပ်စာပေ",
+        "english": "Books"
+      },
+      {
+        "japanese": "戸籍",
+        "reading": "こせき",
+        "myanmar": "အိမ်ထောင်စုဇယား / သန်းခေါင်စာရင်း",
+        "english": "Family registration"
+      },
+      {
+        "japanese": "学籍",
+        "reading": "がくせき",
+        "myanmar": "ကျောင်းသားမှတ်ပုံတင်",
+        "english": "School register"
+      },
+      {
+        "japanese": "除籍する",
+        "reading": "じょせきする",
+        "myanmar": "စာရင်းမှ ပယ်ဖျက်သည် / ကျောင်းမှ ထုတ်ပစ်သည်",
+        "english": "To remove from register / To expel"
+      },
+      {
+        "japanese": "在籍する",
+        "reading": "ざいせきする",
+        "myanmar": "စာရင်းတွင် ပါဝင်နေဆဲဖြစ်သည်",
+        "english": "To be on the register"
+      }
+    ]
+  },
+  {
+    "number": 1039,
+    "kanji": "属",
+    "onyomi": "ゾク",
+    "kunyomi": null,
+    "vocabulary": [
+      {
+        "japanese": "金属",
+        "reading": "きんぞく",
+        "myanmar": "သတ္တု",
+        "english": "Metal"
+      },
+      {
+        "japanese": "所属する",
+        "reading": "しょぞくする",
+        "myanmar": "အဖွဲ့အစည်းတစ်ခုခုတွင် ပါဝင်ဖွဲ့စည်းထားသည် / ပါဝင်သည်",
+        "english": "To belong to"
+      },
+      {
+        "japanese": "属する",
+        "reading": "ぞくする",
+        "myanmar": "၏ လက်အောက်တွင် ရှိသည် / အပါအဝင်ဖြစ်သည်",
+        "english": "To belong to"
+      }
+    ]
+  },
+  {
+    "number": 1040,
+    "kanji": "又",
+    "onyomi": null,
+    "kunyomi": "また",
+    "vocabulary": [
+      {
+        "japanese": "又",
+        "reading": "また",
+        "myanmar": "ထပ်မံ၍ / သို့မဟုတ်",
+        "english": "Again / Also"
+      },
+      {
+        "japanese": "又は",
+        "reading": "または",
+        "myanmar": "သို့မဟုတ်",
+        "english": "Or / As well as"
+      }
+    ]
+  },
+  {
+    "number": 1041,
+    "kanji": "旨",
+    "onyomi": "シ",
+    "kunyomi": "むね",
+    "vocabulary": [
+      {
+        "japanese": "要旨",
+        "reading": "ようし",
+        "myanmar": "အဓိကအချက် / အနှစ်ချုပ်",
+        "english": "The point / The gist"
+      },
+      {
+        "japanese": "趣旨",
+        "reading": "しゅし",
+        "myanmar": "ရည်ရွယ်ချက် / ဦးတည်ချက်",
+        "english": "The purpose / The aim"
+      },
+      {
+        "japanese": "旨",
+        "reading": "むね",
+        "myanmar": "အဓိပ္ပာယ် / ရည်ရွယ်ချက်",
+        "english": "Effect / The purpose / An aim"
+      }
+    ]
+  },
+  {
+    "number": 1042,
+    "kanji": "携",
+    "onyomi": "ケイ",
+    "kunyomi": "たず-わる / たず-ねる",
+    "vocabulary": [
+      {
+        "japanese": "携帯電話",
+        "reading": "けいたいでんわ",
+        "myanmar": "လက်ကိုင်ဖုန်း",
+        "english": "Mobile phone"
+      },
+      {
+        "japanese": "携帯する",
+        "reading": "けいたいする",
+        "myanmar": "ယူဆောင်သွားသည် / ဆောင်ထားသည်",
+        "english": "To carry"
+      },
+      {
+        "japanese": "提携する",
+        "reading": "ていけいする",
+        "myanmar": "ပူးပေါင်းဆောင်ရွက်သည်",
+        "english": "To tie up / To cooperate"
+      },
+      {
+        "japanese": "携わる",
+        "reading": "たずさわる",
+        "myanmar": "ပါဝင်ဆောင်ရွက်သည် / ပတ်သက်သည်",
+        "english": "To engage / To be involved"
+      },
+      {
+        "japanese": "携える",
+        "reading": "たずさえる",
+        "myanmar": "လက်ဆွဲယူဆောင်သည်",
+        "english": "To carry"
+      }
+    ]
+  },
+  {
+    "number": 1043,
+    "kanji": "提",
+    "onyomi": "テイ",
+    "kunyomi": null,
+    "vocabulary": [
+      {
+        "japanese": "前提",
+        "reading": "ぜんてい",
+        "myanmar": "အခြေခံအချက် / ကြိုတင်အကြောင်းအရာ",
+        "english": "Premise"
+      },
+      {
+        "japanese": "提出する",
+        "reading": "ていしゅつする",
+        "myanmar": "တင်ပြသည် / ပေးပို့တင်ပြသည်",
+        "english": "To present / To submit"
+      },
+      {
+        "japanese": "提案する",
+        "reading": "ていあんする",
+        "myanmar": "အကြံပြုတင်ပြသည် / အဆိုပြုသည်",
+        "english": "To suggest / To propose"
+      },
+      {
+        "japanese": "提示する",
+        "reading": "ていじする",
+        "myanmar": "ပြသသည် / ထုတ်ပြသည်",
+        "english": "To present / To show"
+      }
+    ]
+  },
+  {
+    "number": 1044,
+    "kanji": "紛",
+    "onyomi": "フン",
+    "kunyomi": "まぎ-らわしい / まぎ-れる",
+    "vocabulary": [
+      {
+        "japanese": "紛争",
+        "reading": "ふんそう",
+        "myanmar": "ပဋိပက္ခ / အငြင်းပွားမှု",
+        "english": "Dispute"
+      },
+      {
+        "japanese": "紛失する",
+        "reading": "ふんしつする",
+        "myanmar": "ပျောက်ဆုံးသည်",
+        "english": "To lose"
+      },
+      {
+        "japanese": "紛らわしい",
+        "reading": "まぎらわしい",
+        "myanmar": "ဇဝေဇဝါဖြစ်စေသော / မှားယွင်းစေသော",
+        "english": "Confusing / Misleading"
+      },
+      {
+        "japanese": "紛れる",
+        "reading": "まぎれる",
+        "myanmar": "ရောထွေးသွားသည် / စိတ်ပြန့်လွင့်သွားသည်",
+        "english": "To disappear / To be diverted"
+      }
+    ]
+  },
+  {
+    "number": 1045,
+    "kanji": "滞",
+    "onyomi": "タイ",
+    "kunyomi": "とどこお-る",
+    "vocabulary": [
+      {
+        "japanese": "渋滞",
+        "reading": "じゅうたい",
+        "myanmar": "ယာဉ်ကြောပိတ်ဆို့မှု",
+        "english": "Traffic jam"
+      },
+      {
+        "japanese": "停滞した",
+        "reading": "ていたいした",
+        "myanmar": "စက်ဆိုင်းနေသော / မတိုးတက်သော",
+        "english": "Stagnant"
+      },
+      {
+        "japanese": "滞在する",
+        "reading": "たいざいする",
+        "myanmar": "တည်းခိုနေထိုင်သည်",
+        "english": "To stay"
+      },
+      {
+        "japanese": "滞る",
+        "reading": "とどこおる",
+        "myanmar": "ကြန့်ကြာသည် / ကြွေးကျန်သည်",
+        "english": "To be delayed / To stagnate"
+      }
+    ]
+  },
+  {
+    "number": 1046,
+    "kanji": "義",
+    "onyomi": "ギ",
+    "kunyomi": null,
+    "vocabulary": [
+      {
+        "japanese": "講義",
+        "reading": "こうぎ",
+        "myanmar": "သင်ခန်းစာ / ပို့ချချက်",
+        "english": "Lecture"
+      },
+      {
+        "japanese": "義務",
+        "reading": "ぎむ",
+        "myanmar": "တာဝန် / ဝတ္တရား",
+        "english": "Duty / Obligation"
+      },
+      {
+        "japanese": "定義",
+        "reading": "ていぎ",
+        "myanmar": "အဓိပ္ပာယ်ဖွင့်ဆိုချက်",
+        "english": "Definition"
+      },
+      {
+        "japanese": "正義",
+        "reading": "せいぎ",
+        "myanmar": "တရားမျှတမှု",
+        "english": "Justice"
+      }
+    ]
+  },
+  {
+    "number": 1047,
+    "kanji": "傷",
+    "onyomi": "ショウ",
+    "kunyomi": "きず",
+    "vocabulary": [
+      {
+        "japanese": "傷害",
+        "reading": "しょうがい",
+        "myanmar": "ထိခိုက်ဒဏ်ရာရရှိမှု",
+        "english": "Injury"
+      },
+      {
+        "japanese": "負傷する",
+        "reading": "ふしょうする",
+        "myanmar": "ဒဏ်ရာရရှိသည်",
+        "english": "To get injured"
+      },
+      {
+        "japanese": "傷",
+        "reading": "きず",
+        "myanmar": "ဒဏ်ရာ / အမာရွတ်",
+        "english": "Wound / Injury"
+      },
+      {
+        "japanese": "傷つく",
+        "reading": "きずつく",
+        "myanmar": "စိတ်ထိခိုက်သည် / ဒဏ်ရာရသည်",
+        "english": "To get hurt"
+      }
+    ]
+  },
+  {
+    "number": 1048,
+    "kanji": "偶",
+    "onyomi": "グウ",
+    "kunyomi": null,
+    "vocabulary": [
+      {
+        "japanese": "偶数",
+        "reading": "ぐうすう",
+        "myanmar": "စုံဂဏန်း",
+        "english": "An even number"
+      },
+      {
+        "japanese": "偶発的な",
+        "reading": "ぐうはつてきな",
+        "myanmar": "မတော်တဆဖြစ်သော / တိုက်ဆိုင်စွာဖြစ်သော",
+        "english": "Accidental"
+      },
+      {
+        "japanese": "偶然に",
+        "reading": "ぐうぜんに",
+        "myanmar": "တိုက်ဆိုင်စွာဖြင့် / အကြောင်းမတိုက်ဆိုင်ဘဲ",
+        "english": "By chance"
+      },
+      {
+        "japanese": "配偶者",
+        "reading": "はいぐうしゃ",
+        "myanmar": "အိမ်ထောင်ဖက်",
+        "english": "One's spouse"
+      }
+    ]
+  },
+  {
+    "number": 1049,
+    "kanji": "遭",
+    "onyomi": "ソウ",
+    "kunyomi": "あ-う",
+    "vocabulary": [
+      {
+        "japanese": "遭遇する",
+        "reading": "そうぐうする",
+        "myanmar": "ကြုံတွေ့သည် / ဆုံတွေ့သည်",
+        "english": "To encounter"
+      },
+      {
+        "japanese": "遭難する",
+        "reading": "そうなんする",
+        "myanmar": "ဘေးအန္တရာယ်နှင့် ကြုံတွေ့သည် / ဒုက္ခရောက်သည်",
+        "english": "To meet with a disaster"
+      },
+      {
+        "japanese": "遭う",
+        "reading": "あう",
+        "myanmar": "(မကောင်းသော အရာနှင့်) ကြုံတွေ့ရသည်",
+        "english": "To meet with / To encounter"
+      }
+    ]
+  },
+  {
+    "number": 1050,
+    "kanji": "賠",
+    "onyomi": "バイ",
+    "kunyomi": null,
+    "vocabulary": [
+      {
+        "japanese": "賠償する",
+        "reading": "ばいしょうする",
+        "myanmar": "လျှော်ကြေးပေးသည် / ကာမိအောင် လျှော်ပေးသည်",
+        "english": "To compensate"
+      }
+    ]
+  },
+  {
+    "number": 1051,
+    "kanji": "償",
+    "onyomi": "ショウ",
+    "kunyomi": "つぐな-う",
+    "vocabulary": [
+      {
+        "japanese": "代償",
+        "reading": "だいしょう",
+        "myanmar": "ပေးဆပ်မှု / လျှော်ကြေး",
+        "english": "Compensation / A price"
+      },
+      {
+        "japanese": "弁償する",
+        "reading": "べんしょうする",
+        "myanmar": "ပျက်စီးဆုံးရှုံးမှုကို ပြန်လည် လျှော်ပေးသည်",
+        "english": "To compensate"
+      },
+      {
+        "japanese": "償い",
+        "reading": "つぐない",
+        "myanmar": "အပြစ်ပေးဆပ်ခြင်း / လျှော်ကြေး",
+        "english": "Compensation / Atonement"
+      },
+      {
+        "japanese": "無償の",
+        "reading": "むしょうの",
+        "myanmar": "အခမဲ့",
+        "english": "Gratis / Free of charge"
+      },
+      {
+        "japanese": "補償する",
+        "reading": "ほしょうする",
+        "myanmar": "နစ်နာကြေး ပေးလျော်သည်",
+        "english": "To compensate"
+      }
+    ]
+  },
+  {
+    "number": 1052,
+    "kanji": "災",
+    "onyomi": "サイ",
+    "kunyomi": "わざわ-い",
+    "vocabulary": [
+      {
+        "japanese": "火災",
+        "reading": "かさい",
+        "myanmar": "မီးလောင်ကျွမ်းမှု / မီးဘေး",
+        "english": "A fire"
+      },
+      {
+        "japanese": "災難",
+        "reading": "さいなん",
+        "myanmar": "ကံဆိုးမိုးမှောင်ကျမှု / ဘေးအန္တရာယ်",
+        "english": "Misfortune / Disaster"
+      },
+      {
+        "japanese": "災い",
+        "reading": "わざわい",
+        "myanmar": "ဘေးအန္တရာယ် / ကပ်ဘေး",
+        "english": "Disaster"
+      },
+      {
+        "japanese": "災害",
+        "reading": "さいがい",
+        "myanmar": "သဘာဝဘေးအန္တရာယ်",
+        "english": "Disaster"
+      },
+      {
+        "japanese": "防災",
+        "reading": "ぼうさい",
+        "myanmar": "သဘာဝဘေးအန္တရာယ် ကာကွယ်ရေး",
+        "english": "Disaster prevention"
+      }
+    ]
+  },
+  {
+    "number": 1053,
+    "kanji": "勧",
+    "onyomi": "カン",
+    "kunyomi": "すす-める",
+    "vocabulary": [
+      {
+        "japanese": "勧誘する",
+        "reading": "かんゆうする",
+        "myanmar": "စည်းရုံးလှုံ့ဆော်သည်",
+        "english": "To invite / To solicit"
+      },
+      {
+        "japanese": "勧め",
+        "reading": "すすめ",
+        "myanmar": "အကြံပြုချက် / တိုက်တွန်းချက်",
+        "english": "Advice / Recommendation"
+      },
+      {
+        "japanese": "勧める",
+        "reading": "すすめる",
+        "myanmar": "တိုက်တွန်းသည် / အကြံပြုသည်",
+        "english": "To advise / To recommend"
+      },
+      {
+        "japanese": "勧告する",
+        "reading": "かんこくする",
+        "myanmar": "သတိပေးတိုက်တွန်းသည်",
+        "english": "To advise / To recommend"
+      }
+    ]
+  },
+  {
+    "number": 1054,
+    "kanji": "誕",
+    "onyomi": "タン",
+    "kunyomi": null,
+    "vocabulary": [
+      {
+        "japanese": "誕生日",
+        "reading": "たんじょうび",
+        "myanmar": "မွေးနေ့",
+        "english": "One's birthday"
+      }
+    ]
+  },
+  {
+    "number": 1055,
+    "kanji": "請",
+    "onyomi": "セイ",
+    "kunyomi": "う-ける",
+    "vocabulary": [
+      {
+        "japanese": "申請する",
+        "reading": "しんせいする",
+        "myanmar": "လျှောက်ထားသည် / အဆိုပြုသည်",
+        "english": "To apply"
+      },
+      {
+        "japanese": "要請する",
+        "reading": "ようせいする",
+        "myanmar": "တောင်းဆိုသည်",
+        "english": "To request"
+      },
+      {
+        "japanese": "請ける",
+        "reading": "うける",
+        "myanmar": "လက်ခံဆောင်ရွက်သည်",
+        "english": "To receive"
+      },
+      {
+        "japanese": "請求する",
+        "reading": "せいきゅうする",
+        "myanmar": "ငွေတောင်းခံသည် / တောင်းဆိုသည်",
+        "english": "To demand / To claim"
+      }
+    ]
+  },
+    {
+    "number": 1056,
+    "kanji": "離",
+    "onyomi": "リ",
+    "kunyomi": "はな-れる / はな-す",
+    "vocabulary": [
+      {
+        "japanese": "距離",
+        "reading": "きょり",
+        "myanmar": "အကွာအဝေး",
+        "english": "Distance"
+      },
+      {
+        "japanese": "離婚する",
+        "reading": "りこんする",
+        "myanmar": "လင်မယားကွာရှင်းသည်",
+        "english": "To divorce"
+      },
+      {
+        "japanese": "分離する",
+        "reading": "ぶんりする",
+        "myanmar": "ခွဲထုတ်သည် / သီးခြားခွဲသည်",
+        "english": "To separate"
+      },
+      {
+        "japanese": "離れる",
+        "reading": "はなれる",
+        "myanmar": "ခွဲခွာသည် / ဝေးကွာသွားသည်",
+        "english": "To leave / To be separated"
+      },
+      {
+        "japanese": "離す",
+        "reading": "はなす",
+        "myanmar": "ခွဲထားသည် / အကွာအဝေးခြားထားသည်",
+        "english": "To part / To separate"
+      }
+    ]
+  },
+  {
+    "number": 1057,
+    "kanji": "暇",
+    "onyomi": "カ",
+    "kunyomi": "ひま",
+    "vocabulary": [
+      {
+        "japanese": "休暇",
+        "reading": "きゅうか",
+        "myanmar": "ခွင့်ရက် / အားလပ်ရက်",
+        "english": "A holiday / Vacation"
+      },
+      {
+        "japanese": "暇な",
+        "reading": "ひまな",
+        "myanmar": "အားလပ်သော",
+        "english": "Free"
+      },
+      {
+        "japanese": "余暇",
+        "reading": "よか",
+        "myanmar": "အားလပ်ချိန်",
+        "english": "Leisure hours"
+      }
+    ]
+  },
+  {
+    "number": 1058,
+    "kanji": "診",
+    "onyomi": "シン",
+    "kunyomi": "み-る",
+    "vocabulary": [
+      {
+        "japanese": "診療所",
+        "reading": "しんりょうじょ",
+        "myanmar": "ဆေးခန်း",
+        "english": "A clinic"
+      },
+      {
+        "japanese": "診療費",
+        "reading": "しんりょうひ",
+        "myanmar": "ဆေးကုသစရိတ်",
+        "english": "Fee for medical examination and treatment"
+      },
+      {
+        "japanese": "健康診断",
+        "reading": "けんこうしんだん",
+        "myanmar": "ကျန်းမာရေးဆေးစစ်ခြင်း",
+        "english": "A medical checkup"
+      },
+      {
+        "japanese": "診察する",
+        "reading": "しんさつする",
+        "myanmar": "ဆေးစစ်ဆေးကုသသည်",
+        "english": "To examine"
+      },
+      {
+        "japanese": "受診する",
+        "reading": "じゅしんする",
+        "myanmar": "ဆရာဝန်နှင့် ပြသကုသမှုခံယူသည်",
+        "english": "To consult a doctor"
+      },
+      {
+        "japanese": "診る",
+        "reading": "みる",
+        "myanmar": "ဆေးစစ်ပေးသည် / ကြည့်ရှုကုသပေးသည်",
+        "english": "To examine"
+      },
+      {
+        "japanese": "問診票",
+        "reading": "もんしんひょう",
+        "myanmar": "ရောဂါရာဇဝင်မေးမြန်းလွှာ",
+        "english": "Medical questionnaire"
+      },
+      {
+        "japanese": "診断する",
+        "reading": "しんだんする",
+        "myanmar": "ရောဂါအမည်တပ်သည် / စမ်းသပ်စစ်ဆေးသည်",
+        "english": "To diagnose"
+      }
+    ]
+  },
+  {
+    "number": 1059,
+    "kanji": "但",
+    "onyomi": null,
+    "kunyomi": "ただ-し",
+    "vocabulary": [
+      {
+        "japanese": "但し",
+        "reading": "ただし",
+        "myanmar": "သို့သော်လည်း / ဒါပေမဲ့",
+        "english": "But / However"
+      }
+    ]
+  },
+  {
+    "number": 1060,
+    "kanji": "旦",
+    "onyomi": "タン",
+    "kunyomi": null,
+    "vocabulary": [
+      {
+        "japanese": "元旦",
+        "reading": "がんたん",
+        "myanmar": "နှစ်သစ်ကူးနေ့နံနက်ခင်း / ဇန်နဝါရီ ၁ ရက်နေ့",
+        "english": "The first day (morning) of the year"
+      },
+      {
+        "japanese": "一旦",
+        "reading": "いったん",
+        "myanmar": "ခဏမျှ / တစ်ကြိမ်မျှ",
+        "english": "Once / For a short time"
+      }
+    ]
+  },
+  {
+    "number": 1061,
+    "kanji": "納",
+    "onyomi": "ノウ / ナッ",
+    "kunyomi": "おさ-まる / おさ-める",
+    "vocabulary": [
+      {
+        "japanese": "納入する",
+        "reading": "のうにゅうする",
+        "myanmar": "ပေးသွင်းသည် / ပေးပို့သည်",
+        "english": "To deliver / To supply / To pay"
+      },
+      {
+        "japanese": "返納する",
+        "reading": "へんのうする",
+        "myanmar": "ပြန်လည်အပ်နှံသည်",
+        "english": "To return"
+      },
+      {
+        "japanese": "滞納する",
+        "reading": "たいのうする",
+        "myanmar": "အခွန်/ငွေ မပေးဘဲ ကြွေးကျန်ရစ်သည်",
+        "english": "To fall behind in one's payment"
+      },
+      {
+        "japanese": "納得する",
+        "reading": "なっとくする",
+        "myanmar": "သဘောပေါက်နားလည်သည် / ကျေနပ်လက်ခံသည်",
+        "english": "To consent / To understand"
+      },
+      {
+        "japanese": "納まる",
+        "reading": "おさまる",
+        "myanmar": "ပေးသွင်းပြီးစီးသည် / သိုလှောင်မိသည်",
+        "english": "To be delivered / To be satisfied"
+      },
+      {
+        "japanese": "納める",
+        "reading": "おさめる",
+        "myanmar": "ပေးဆောင်သည် / အပ်နှံသည်",
+        "english": "To accept / To deliver / To pay"
+      }
+    ]
+  },
+  {
+    "number": 1062,
+    "kanji": "姻",
+    "onyomi": "イン",
+    "kunyomi": null,
+    "vocabulary": [
+      {
+        "japanese": "婚姻",
+        "reading": "こんいん",
+        "myanmar": "ထိမ်းမြားမင်္ဂလာ / အိမ်ထောင်ပြုခြင်း",
+        "english": "Marriage"
+      }
+    ]
+  },
+  {
+    "number": 1063,
+    "kanji": "履",
+    "onyomi": "リ",
+    "kunyomi": "は-く",
+    "vocabulary": [
+      {
+        "japanese": "履歴",
+        "reading": "りれき",
+        "myanmar": "ကိုယ်ရေးရာဇဝင် / အတွေ့အကြုံ",
+        "english": "History / Personal record"
+      },
+      {
+        "japanese": "履修する",
+        "reading": "りしゅうする",
+        "myanmar": "သင်ရိုးညွှန်းတမ်း တက်ရောက်သင်ယူသည်",
+        "english": "To take (a course)"
+      },
+      {
+        "japanese": "履く",
+        "reading": "はく",
+        "myanmar": "ဝတ်ဆင်သည် (ဖိနပ်၊ ခြေအိတ်၊ ဘောင်းဘီ စသည်)",
+        "english": "To put on (shoes, socks)"
+      }
+    ]
+  },
+  {
+    "number": 1064,
+    "kanji": "桁",
+    "onyomi": null,
+    "kunyomi": "けた",
+    "vocabulary": [
+      {
+        "japanese": "桁",
+        "reading": "けた",
+        "myanmar": "ဂဏန်းနေရာ / အကွက် (ဥပမာ - ၁၀ ဂဏန်းနေရာ)",
+        "english": "A place, a figure / Digit"
+      }
+    ]
+  },
+  {
+    "number": 1065,
+    "kanji": "暦",
+    "onyomi": "レキ",
+    "kunyomi": "こよみ",
+    "vocabulary": [
+      {
+        "japanese": "西暦",
+        "reading": "せいれき",
+        "myanmar": "ခရစ်နှစ် (A.D.)",
+        "english": "The Christian era / A.D."
+      },
+      {
+        "japanese": "還暦",
+        "reading": "かんれき",
+        "myanmar": "အသက် ၆၀ ပြည့် မွေးနေ့",
+        "english": "One's sixtieth birthday"
+      },
+      {
+        "japanese": "暦",
+        "reading": "こよみ",
+        "myanmar": "ပြက္ခဒိန်",
+        "english": "A calendar"
+      }
+    ]
+  },
+  {
+    "number": 1066,
+    "kanji": "択",
+    "onyomi": "タク",
+    "kunyomi": null,
+    "vocabulary": [
+      {
+        "japanese": "選択する",
+        "reading": "せんたくする",
+        "myanmar": "ရွေးချယ်သည်",
+        "english": "To choose, to select"
+      },
+      {
+        "japanese": "採択する",
+        "reading": "さいたくする",
+        "myanmar": "လက်ခံရွေးချယ်သည် / အတည်ပြုသည်",
+        "english": "To adopt"
+      },
+      {
+        "japanese": "二者択一",
+        "reading": "にしゃたくいつ",
+        "myanmar": "နှစ်ခုအနက် တစ်ခုကို ရွေးချယ်ခြင်း",
+        "english": "A choice between two things, alternative"
+      }
+    ]
+  },
+  {
+    "number": 1067,
+    "kanji": "欄",
+    "onyomi": "ラン",
+    "kunyomi": null,
+    "vocabulary": [
+      {
+        "japanese": "欄",
+        "reading": "らん",
+        "myanmar": "ကွက်လပ် / အကွက် / စာမျက်နှာအပိုင်း",
+        "english": "A column, a blank, space"
+      },
+      {
+        "japanese": "欄干",
+        "reading": "らんかん",
+        "myanmar": "လက်ရန်း (တံတား၊ လှေကားစသည်)",
+        "english": "A parapet, a railing"
+      }
+    ]
+  },
+  {
+    "number": 1068,
+    "kanji": "緊",
+    "onyomi": "キン",
+    "kunyomi": null,
+    "vocabulary": [
+      {
+        "japanese": "緊急",
+        "reading": "きんきゅう",
+        "myanmar": "အရေးပေါ် / အရေးကြီးသော",
+        "english": "Urgency, emergency"
+      },
+      {
+        "japanese": "緊張する",
+        "reading": "きんちょうする",
+        "myanmar": "စိတ်လှုပ်ရှားသည် / စိတ်တင်းကြပ်သည်",
+        "english": "To be nervous, to feel the strain"
+      }
+    ]
+  },
+  {
+    "number": 1069,
+    "kanji": "須",
+    "onyomi": "ス",
+    "kunyomi": null,
+    "vocabulary": [
+      {
+        "japanese": "必須(の)",
+        "reading": "ひっす(の)",
+        "myanmar": "မရှိမဖြစ် လိုအပ်သော",
+        "english": "Indispensable, essential"
+      }
+    ]
+  },
+  {
+    "number": 1070,
+    "kanji": "項",
+    "onyomi": "コウ",
+    "kunyomi": null,
+    "vocabulary": [
+      {
+        "japanese": "項目",
+        "reading": "こうもく",
+        "myanmar": "ခေါင်းစဉ် / အချက် / အကြောင်းအရာ",
+        "english": "Item, an item"
+      },
+      {
+        "japanese": "事項",
+        "reading": "じこう",
+        "myanmar": "ကိစ္စရပ်များ / အကြောင်းအရာများ",
+        "english": "Matters, articles, items"
+      },
+      {
+        "japanese": "要項",
+        "reading": "ようこう",
+        "myanmar": "အဓိကအချက်များ / အရေးကြီးသော အကြောင်းအရာများ",
+        "english": "A list of essential points"
+      }
+    ]
+  },
+  {
+    "number": 1071,
+    "kanji": "養",
+    "onyomi": "ヨウ",
+    "kunyomi": "やしな-う",
+    "vocabulary": [
+      {
+        "japanese": "教養",
+        "reading": "きょうよう",
+        "myanmar": "ဗဟုသုတ / ယဉ်ကျေးလိမ္မာမှု",
+        "english": "Culture / Education"
+      },
+      {
+        "japanese": "栄養",
+        "reading": "えいよう",
+        "myanmar": "အာဟာရ",
+        "english": "Nutrition"
+      },
+      {
+        "japanese": "養分",
+        "reading": "ようぶん",
+        "myanmar": "အာဟာရဓာတ်",
+        "english": "Nourishment"
+      },
+      {
+        "japanese": "休養する",
+        "reading": "きゅうようする",
+        "myanmar": "အနားယူသည်",
+        "english": "To rest"
+      },
+      {
+        "japanese": "養う",
+        "reading": "やしなう",
+        "myanmar": "ကျွေးမွေးစောင့်ရှောက်သည် / ပျိုးထောင်သည်",
+        "english": "To bring up, to support, to cultivate"
+      }
+    ]
+  },
+  {
+    "number": 1072,
+    "kanji": "哲",
+    "onyomi": "テツ",
+    "kunyomi": null,
+    "vocabulary": [
+      {
+        "japanese": "哲学",
+        "reading": "てつがく",
+        "myanmar": "ဒဿနိကဗေဒ",
+        "english": "Philosophy"
+      },
+      {
+        "japanese": "何の変哲もない",
+        "reading": "なんのへんてつもない",
+        "myanmar": "ထူးခြားမှုမရှိသော / ရိုးရိုးသာမန်ဖြစ်သော",
+        "english": "Ordinary, common"
+      }
+    ]
+  },
+  {
+    "number": 1073,
+    "kanji": "倫",
+    "onyomi": "リン",
+    "kunyomi": null,
+    "vocabulary": [
+      {
+        "japanese": "倫理",
+        "reading": "りんり",
+        "myanmar": "ကျင့်ဝတ် / စာရိတ္တ",
+        "english": "Ethics"
+      }
+    ]
+  },
+  {
+    "number": 1074,
+    "kanji": "概",
+    "onyomi": "ガイ",
+    "kunyomi": null,
+    "vocabulary": [
+      {
+        "japanese": "概論",
+        "reading": "がいろん",
+        "myanmar": "နိဒါန်း / မိတ်ဆက်အကျဉ်းချုပ်",
+        "english": "Introduction"
+      },
+      {
+        "japanese": "概説",
+        "reading": "がいせつ",
+        "myanmar": "အကျဉ်းချုပ်ရှင်းလင်းချက်",
+        "english": "Outline"
+      },
+      {
+        "japanese": "概念",
+        "reading": "がいねん",
+        "myanmar": "သဘောတရား / အယူအဆ",
+        "english": "A notion, a general idea, a concept"
+      },
+      {
+        "japanese": "概略",
+        "reading": "がいりゃく",
+        "myanmar": "အနှစ်ချုပ် / အကျဉ်းမျှ",
+        "english": "An outline, a summary"
+      },
+      {
+        "japanese": "概観する",
+        "reading": "がいかんする",
+        "myanmar": "ခြုံငုံသုံးသပ်သည် / အကျဉ်းချုပ်ကြည့်သည်",
+        "english": "To survey"
+      },
+      {
+        "japanese": "一概に",
+        "reading": "いちがいに",
+        "myanmar": "တစ်ထပ်တည်း / ပမာဏတစ်ခုတည်းဖြင့် (ယေဘုယျဆန်ဆန်)",
+        "english": "Indiscriminately, unconditionally"
+      }
+    ]
+  },
+  {
+    "number": 1075,
+    "kanji": "礎",
+    "onyomi": "ソ",
+    "kunyomi": null,
+    "vocabulary": [
+      {
+        "japanese": "基礎",
+        "reading": "きそ",
+        "myanmar": "အခြေခံ / အုတ်မြစ်",
+        "english": "Foundation, a basis"
+      }
+    ]
+  },
+  {
+    "number": 1076,
+    "kanji": "削",
+    "onyomi": "サク",
+    "kunyomi": "けず-る",
+    "vocabulary": [
+      {
+        "japanese": "削除する",
+        "reading": "さくじょする",
+        "myanmar": "ဖျက်ထုတ်သည်",
+        "english": "To delete"
+      },
+      {
+        "japanese": "削減する",
+        "reading": "さくげんする",
+        "myanmar": "လျှော့ချသည်",
+        "english": "To cut down"
+      },
+      {
+        "japanese": "削る",
+        "reading": "けずる",
+        "myanmar": "ရွှေတ်သည် / လျှော့ချသည်",
+        "english": "To shave, to reduce, to cut"
+      }
+    ]
+  },
+  {
+    "number": 1077,
+    "kanji": "附",
+    "onyomi": "フ",
+    "kunyomi": null,
+    "vocabulary": [
+      {
+        "japanese": "附属(の)",
+        "reading": "ふぞく(の)",
+        "myanmar": "တွဲဖက် / ပူးတွဲပါသော",
+        "english": "Attached to"
+      }
+    ]
+  },
+  {
+    "number": 1078,
+    "kanji": "稚",
+    "onyomi": "チ",
+    "kunyomi": null,
+    "vocabulary": [
+      {
+        "japanese": "幼稚園",
+        "reading": "ようちえん",
+        "myanmar": "မူကြိုကျောင်း / မူလတန်းကြိုကျောင်း",
+        "english": "A kindergarten"
+      },
+      {
+        "japanese": "幼稚園な",
+        "reading": "ようちな",
+        "myanmar": "ကလေးဆန်သော",
+        "english": "Childish, infantile"
+      }
+    ]
+  },
+  {
+    "number": 1079,
+    "kanji": "析",
+    "onyomi": "セキ",
+    "kunyomi": null,
+    "vocabulary": [
+      {
+        "japanese": "分析する",
+        "reading": "ぶんせきする",
+        "myanmar": "ဓာတ်ခွဲခန်းစစ်ဆေးသည် / စိတ်ဖြာလေ့လာသည်",
+        "english": "To analyze"
+      },
+      {
+        "japanese": "解析する",
+        "reading": "かいせきする",
+        "myanmar": "အသေးစိတ် ခွဲခြမ်းစိတ်ဖြာသည်",
+        "english": "To analyze"
+      }
+    ]
+  },
+  {
+    "number": 1080,
+    "kanji": "盤",
+    "onyomi": "バン",
+    "kunyomi": null,
+    "vocabulary": [
+      {
+        "japanese": "基盤",
+        "reading": "きばん",
+        "myanmar": "အခြေခံစက်ကွင်း / အုတ်မြစ်",
+        "english": "A basis, a foundation"
+      },
+      {
+        "japanese": "地盤",
+        "reading": "じばん",
+        "myanmar": "မြေပြင်အုတ်မြစ် / အောက်ခြေမြေလွှာ",
+        "english": "The ground, the foundation"
+      }
+    ]
+  },
+  {
+    "number": 1081,
+    "kanji": "創",
+    "onyomi": "ソウ",
+    "kunyomi": "つく-る",
+    "vocabulary": [
+      {
+        "japanese": "独創的な",
+        "reading": "どくそうてきな",
+        "myanmar": "တီထွင်ဖန်တီးနိုင်စွမ်းရှိသော",
+        "english": "Original, creative"
+      },
+      {
+        "japanese": "創作する",
+        "reading": "そうさくする",
+        "myanmar": "ဖန်တီးသည် / တီထွင်သည်",
+        "english": "To create"
+      },
+      {
+        "japanese": "創刊する",
+        "reading": "そうかんする",
+        "myanmar": "စာစောင်/မဂ္ဂဇင်း သစ် စတင်ထုတ်ဝေသည်",
+        "english": "To start (a new magazine)"
+      },
+      {
+        "japanese": "創る",
+        "reading": "つくる",
+        "myanmar": "ဖန်တီးပြုလုပ်သည်",
+        "english": "To create"
+      },
+      {
+        "japanese": "創立する",
+        "reading": "そうりつする",
+        "myanmar": "တည်ထောင်သည်",
+        "english": "To found, to establish"
+      },
+      {
+        "japanese": "創造する",
+        "reading": "そうぞうする",
+        "myanmar": "ဖန်ဆင်းသည် / တီထွင်ဖန်တီးသည်",
+        "english": "To create"
+      }
+    ]
+  },
+  {
+    "number": 1082,
+    "kanji": "系",
+    "onyomi": "ケイ",
+    "kunyomi": null,
+    "vocabulary": [
+      {
+        "japanese": "体系",
+        "reading": "たいけい",
+        "myanmar": "စနစ် / ဖွဲ့စည်းပုံစနစ်",
+        "english": "A system"
+      },
+      {
+        "japanese": "～系",
+        "reading": "～けい",
+        "myanmar": "... အုပ်စု / ... စနစ် / ... မျိုးရိုး",
+        "english": "Group, course"
+      },
+      {
+        "japanese": "系統",
+        "reading": "けいとう",
+        "myanmar": "မျိုးရိုး / စနစ် / အစဉ်အဆက်",
+        "english": "A system"
+      }
+    ]
+  },
+  {
+    "number": 1083,
+    "kanji": "棟",
+    "onyomi": "トウ",
+    "kunyomi": null,
+    "vocabulary": [
+      {
+        "japanese": "棟",
+        "reading": "とう",
+        "myanmar": "အဆောက်အအုံ ရေတွက်ပြစကား (ဥပမာ - ၁ ဆောင်)",
+        "english": "A building (counter for building)"
+      }
+    ]
+  },
+  {
+    "number": 1084,
+    "kanji": "援",
+    "onyomi": "エン",
+    "kunyomi": null,
+    "vocabulary": [
+      {
+        "japanese": "応援する",
+        "reading": "おうえんする",
+        "myanmar": "အားပေးသည် / ကူညီသည်",
+        "english": "To support, to aid"
+      },
+      {
+        "japanese": "援助する",
+        "reading": "えんじょする",
+        "myanmar": "ထောက်ပံ့ကူညီသည်",
+        "english": "To assist, to aid, to support"
+      },
+      {
+        "japanese": "救援する",
+        "reading": "きゅうえんする",
+        "myanmar": "ကယ်ဆယ်ထောက်ပံ့သည်",
+        "english": "To relieve, to rescue"
+      },
+      {
+        "japanese": "支援する",
+        "reading": "しえんする",
+        "myanmar": "ဝန်းရံကူညီသည် / ထောက်ပံ့သည်",
+        "english": "To support, to help, to back up"
+      }
+    ]
+  },
+  {
+    "number": 1085,
+    "kanji": "購",
+    "onyomi": "コウ",
+    "kunyomi": null,
+    "vocabulary": [
+      {
+        "japanese": "購買",
+        "reading": "こうばい",
+        "myanmar": "ဝယ်ယူခြင်း",
+        "english": "Purchasing"
+      },
+      {
+        "japanese": "購読する",
+        "reading": "こうどくする",
+        "myanmar": "မှာယူဖတ်ရှုသည် / အကြိမ်ကြိမ်ဝယ်ဖတ်သည်",
+        "english": "To subscribe"
+      },
+      {
+        "japanese": "購入する",
+        "reading": "こうにゅうする",
+        "myanmar": "ဝယ်ယူသည်",
+        "english": "To purchase, to buy"
+      }
+    ]
+  },
+  {
+    "number": 1086,
+    "kanji": "攻",
+    "onyomi": "コウ",
+    "kunyomi": "せ-める",
+    "vocabulary": [
+      {
+        "japanese": "専攻する",
+        "reading": "せんこうする",
+        "myanmar": "အထူးပြုလေ့လာသည်",
+        "english": "To major"
+      },
+      {
+        "japanese": "攻撃する",
+        "reading": "こうげきする",
+        "myanmar": "တိုက်ခိုက်သည်",
+        "english": "To attack"
+      },
+      {
+        "japanese": "攻め",
+        "reading": "せめ",
+        "myanmar": "တိုက်စစ် / တိုက်ခိုက်မှု",
+        "english": "An attack, offense"
+      },
+      {
+        "japanese": "攻める",
+        "reading": "せめる",
+        "myanmar": "တိုက်ခိုက်သည်",
+        "english": "To attack"
+      }
+    ]
+  },
+  {
+    "number": 1087,
+    "kanji": "聴",
+    "onyomi": "チョウ",
+    "kunyomi": "き-く",
+    "vocabulary": [
+      {
+        "japanese": "聴覚",
+        "reading": "ちょうかく",
+        "myanmar": "ကြားသိနိုင်သော အာရုံ / အကြားအာရုံ",
+        "english": "The sense of hearing"
+      },
+      {
+        "japanese": "聴診器",
+        "reading": "ちょうしんき",
+        "myanmar": "နားထောင်ကိရိယာ (ဆရာဝန်သုံး)",
+        "english": "A stethoscope"
+      },
+      {
+        "japanese": "視聴者",
+        "reading": "しちょうしゃ",
+        "myanmar": "ကြည့်ရှုနားဆင်သူ / ပရိသတ်",
+        "english": "An audience, a listener, a viewer"
+      },
+      {
+        "japanese": "聴講する",
+        "reading": "ちょうこうする",
+        "myanmar": "ပို့ချချက်ကို နားထောင်သည်",
+        "english": "To attend a lecture, to audit"
+      },
+      {
+        "japanese": "聴く",
+        "reading": "きく",
+        "myanmar": "နားထောင်သည် / စိုက်ထုတ်နားထောင်သည်",
+        "english": "To listen"
+      }
+    ]
+  },
+  {
+    "number": 1088,
+    "kanji": "准",
+    "onyomi": "ジュン",
+    "kunyomi": null,
+    "vocabulary": [
+      {
+        "japanese": "准教授",
+        "reading": "じゅんきょうじゅ",
+        "myanmar": "တွဲဖက်ပါမောက္ခ",
+        "english": "An associate professor"
+      },
+      {
+        "japanese": "批准する",
+        "reading": "ひじゅんする",
+        "myanmar": "အတည်ပြုလက်မှတ်ရေးထိုးသည် (သဘောတူညီချက်များ)",
+        "english": "To ratify"
+      }
+    ]
+  },
+  {
+    "number": 1089,
+    "kanji": "締",
+    "onyomi": "テイ",
+    "kunyomi": "し-まる / し-める",
+    "vocabulary": [
+      {
+        "japanese": "締結する",
+        "reading": "ていけつする",
+        "myanmar": "ချုပ်ဆိုသည် (စာချုပ် စသည်)",
+        "english": "To conclude"
+      },
+      {
+        "japanese": "戸締まり",
+        "reading": "とじまり",
+        "myanmar": "တံခါးဂျက်ထိုး ပိတ်ပင်ခြင်း",
+        "english": "Locking up (the door)"
+      },
+      {
+        "japanese": "取り締まる",
+        "reading": "とりしまる",
+        "myanmar": "ကြပ်မတ်ကွပ်ကဲသည် / ထိန်းချုပ်သည်",
+        "english": "To manage, to control"
+      },
+      {
+        "japanese": "締め切り",
+        "reading": "しめきり",
+        "myanmar": "နောက်ဆုံးသတ်မှတ်ရက် / သတ်မှတ်ချိန်",
+        "english": "A deadline, a close"
+      },
+      {
+        "japanese": "締め切る",
+        "reading": "しめきる",
+        "myanmar": "ပိတ်သိမ်းသည် / ပိတ်လိုက်သည်",
+        "english": "To close"
+      }
+    ]
+  },
+  {
+    "number": 1090,
+    "kanji": "掲",
+    "onyomi": "ケイ",
+    "kunyomi": "かか-げる",
+    "vocabulary": [
+      {
+        "japanese": "掲示板",
+        "reading": "けいじばん",
+        "myanmar": "ကြော်ငြာသင်ပုန်း",
+        "english": "An electronic bulletin board"
+      },
+      {
+        "japanese": "掲示する",
+        "reading": "けいじする",
+        "myanmar": "ကပ်ထားသည် / အသိပေးစာချိတ်သည်",
+        "english": "To put up (a notice)"
+      },
+      {
+        "japanese": "掲載する",
+        "reading": "けいさいする",
+        "myanmar": "ဖော်ပြပါရှိသည် (စာစောင်၊ ဂျာနယ်တွင်)",
+        "english": "To carry, to run, to insert"
+      },
+      {
+        "japanese": "掲げる",
+        "reading": "かかげる",
+        "myanmar": "မြှောက်တင်သည် / လွှင့်ထူသည်",
+        "english": "To put up, to carry"
+      }
+    ]
+  },
+  {
+    "number": 1091,
+    "kanji": "簿",
+    "onyomi": "ボ",
+    "kunyomi": null,
+    "vocabulary": [
+      {
+        "japanese": "名簿",
+        "reading": "めいぼ",
+        "myanmar": "အမည်စာရင်း",
+        "english": "A list (of names)"
+      },
+      {
+        "japanese": "簿記",
+        "reading": "ぼき",
+        "myanmar": "စာရင်းကိုင်ပညာ",
+        "english": "Bookkeeping"
+      }
+    ]
+  },
+  {
+    "number": 1092,
+    "kanji": "博",
+    "onyomi": "ハク",
+    "kunyomi": null,
+    "vocabulary": [
+      {
+        "japanese": "博士",
+        "reading": "はかせ / はくし",
+        "myanmar": "ဒေါက်တာဘွဲ့ရသူ / ပါရဂူ",
+        "english": "A doctor"
+      },
+      {
+        "japanese": "博物館",
+        "reading": "はくぶつかん",
+        "myanmar": "ပြတိုက်",
+        "english": "A museum"
+      }
+    ]
+  }
+]
