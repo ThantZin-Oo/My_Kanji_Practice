@@ -225,6 +225,13 @@ export default function KanjiPracticePage() {
                     {item.kunyomi || "-"}
                   </p>
 
+                  <p>
+                    <span className="font-semibold">
+                      Meaning:
+                    </span>{" "}
+                    {item.meaning || "-"}
+                  </p>
+
                 </div>
               </div>
 
