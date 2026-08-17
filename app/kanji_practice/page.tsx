@@ -97,6 +97,9 @@ export default function KanjiPracticePage() {
               alt="TZ"
               className="h-15 w-15 object-contain"
               />
+              <span className="text-lg font-bold">
+                Kanji Practice
+              </span>
           </Link>
 
           {/* Range Search - Top Right */}
