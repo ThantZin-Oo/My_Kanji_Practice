@@ -204,12 +204,12 @@ export default function KanjiPracticePage() {
                 </div>
 
                 {/* Kanji */}
-                <div className="text-7xl font-bold">
+                <div className="kanji-character text-7xl font-bold">
                   {item.kanji}
                 </div>
 
                 {/* Readings */}
-                <div className="space-y-2 text-lg">
+                <div className="kanji-character space-y-2 text-lg">
 
                   <p>
                     <span className="font-semibold">
@@ -244,7 +244,7 @@ export default function KanjiPracticePage() {
                   Vocabulary
                 </h2>
 
-                <div className="grid gap-3 sm:grid-cols-2">
+                <div className="kanji-character grid gap-3 sm:grid-cols-2">
 
                   {item.vocabulary.map(
                     (word, index) => (

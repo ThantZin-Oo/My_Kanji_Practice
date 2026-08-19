@@ -255,7 +255,7 @@ export default function FlashCardPage() {
           ================================== */}
           <div className="text-center">
 
-            <div className="text-9xl font-bold">
+            <div className="kanji-character text-9xl font-bold">
               {currentKanji.kanji}
             </div>
 
@@ -271,7 +271,7 @@ export default function FlashCardPage() {
               READINGS
           ================================== */}
           {step >= 2 && (
-            <div className="mt-8 border-t border-zinc-200 pt-8 dark:border-zinc-700">
+            <div className="kanji-character mt-8 border-t border-zinc-200 pt-8 dark:border-zinc-700">
 
               <h2 className="mb-5 text-center text-xl font-bold">
                 Readings
@@ -308,7 +308,7 @@ export default function FlashCardPage() {
               VOCABULARY
           ================================== */}
           {step >= 3 && (
-            <div className="mt-8 border-t border-zinc-200 pt-8 dark:border-zinc-700">
+            <div className="kanji-character mt-8 border-t border-zinc-200 pt-8 dark:border-zinc-700">
 
               <h2 className="mb-5 text-center text-2xl font-bold">
                 Vocabulary
