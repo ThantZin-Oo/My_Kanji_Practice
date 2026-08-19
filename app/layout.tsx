@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 
 const kanjiFont = Klee_One({
   weight: "400",
-  subsets: ["japanese"],
+  subsets: ["latin"],
   display: "swap",
   variable: "--font-kanji",
 });
