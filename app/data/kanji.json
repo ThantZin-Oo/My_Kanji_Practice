@@ -2712,7 +2712,7 @@
         "english": "To dress up"
       }
     ],
-    "meaning": "အလှဆင်သည်"
+    "meaning": "decorate"
   },
   {
     "number": 1102,
@@ -2739,7 +2739,7 @@
         "english": "Items"
       }
     ],
-    "meaning": "နေရာ / အချက်"
+    "meaning": "counter for items"
   },
   {
     "number": 1103,
@@ -2760,7 +2760,7 @@
         "english": "To revise"
       }
     ],
-    "meaning": "ပြင်ဆင်သည် / အမှားပြင်သည်"
+    "meaning": "revise"
   },
   {
     "number": 1104,
@@ -2793,7 +2793,7 @@
         "english": "To excuse"
       }
     ],
-    "meaning": "ထမင်းဘူး / ထမင်းထုတ်"
+    "meaning": "argue"
   },
   {
     "number": 1105,
@@ -2826,7 +2826,7 @@
         "english": "To guard"
       }
     ],
-    "meaning": "သူနာပြု"
+    "meaning": "protect"
   },
   {
     "number": 1106,
@@ -2853,7 +2853,7 @@
         "english": "A doctor"
       }
     ],
-    "meaning": "မဟာဘွဲ့ရသူ"
+    "meaning": "man"
   },
   {
     "number": 1107,
@@ -2868,7 +2868,7 @@
         "english": "Jurisdiction"
       }
     ],
-    "meaning": "စီရင်ပိုင်ခွင့် / စီမံခန့်ခွဲခွင့်နယ်မြေ"
+    "meaning": "Jurisdiction(စီရင်ပိုင်ခွင့် / စီမံခန့်ခွဲခွင့်နယ်မြေ)"
   },
   {
     "number": 1108,
@@ -2895,7 +2895,7 @@
         "english": "Recently, lately"
       }
     ],
-    "meaning": "... အချိန်ခန့်"
+    "meaning": "a short of time"
   },
   {
     "number": 1109,
@@ -2946,7 +2946,7 @@
         "english": "To shake, to exercise"
       }
     ],
-    "meaning": "ဝှေ့ယမ်းသည် / ခါထုတ်သည်"
+    "meaning": "swing"
   },
   {
     "number": 1110,
@@ -2961,7 +2961,7 @@
         "english": "Methodical, precise, punctual"
       }
     ],
-    "meaning": "သပ်သပ်ရပ်ရပ်ရှိသော / စနစ်တကျရှိသော"
+    "meaning": "notebook"
   },
   {
     "number": 1111,
@@ -2982,7 +2982,7 @@
         "english": "To excel"
       }
     ],
-    "meaning": "ထူးချွန်သည် / သာလွန်သည်"
+    "meaning": "Excellent (ထူးချွန်သည် / သာလွန်သည်)"
   },
   {
     "number": 1112,
@@ -3009,7 +3009,7 @@
         "english": "Weak, delicate, sickly"
       }
     ],
-    "meaning": "ရိုသေနှိမ့်ချသော"
+    "meaning": "empty"
   },
   {
     "number": 1113,
@@ -3030,7 +3030,7 @@
         "english": "To take an oath, to swear"
       }
     ],
-    "meaning": "ကတိသစ္စာပြုသည် / ကျိန်ဆိုသည်"
+    "meaning": "swear (ကတိသစ္စာပြုသည် / ကျိန်ဆိုသည်)"
   },
   {
     "number": 1114,
@@ -3057,7 +3057,7 @@
         "english": "To learn a lesson"
       }
     ],
-    "meaning": "သင်ခန်းစာရသွားသည် / မှတ်လောက်သားလောက်ဖြစ်သည်"
+    "meaning": "chastise"
   },
   {
     "number": 1115,
@@ -3084,7 +3084,7 @@
         "english": "To warn, to scold, to admonish"
       }
     ],
-    "meaning": "သတိပေးသည် / ဆုံးမသည်"
+    "meaning": "caution (သတိပေးသည် / ဆုံးမသည်)"
   },
   {
     "number": 1116,
@@ -3117,7 +3117,7 @@
         "english": "To encourage, to cheer up"
       }
     ],
-    "meaning": "ကြိုးစားအားထုတ်သည်"
+    "meaning": "encourage (အားပေးသည်)"
   },
   {
     "number": 1117,
@@ -3144,7 +3144,7 @@
         "english": "A ... card, a ... sheet"
       }
     ],
-    "meaning": "မဲ / ဆန္ဒမဲ"
+    "meaning": "card/ slip (မဲ / ဆန္ဒမဲ)"
   },
   {
     "number": 1118,
@@ -3189,7 +3189,7 @@
         "english": "To recommend, to support"
       }
     ],
-    "meaning": "ထောက်ခံသည် / ထောက်ခံပေးသည်"
+    "meaning": "push"
   },
   {
     "number": 1119,
@@ -3210,7 +3210,7 @@
         "english": "To recommend"
       }
     ],
-    "meaning": "တိုက်တွန်းသည် / အကြံပြုသည်"
+    "meaning": "recommend (တိုက်တွန်းသည် / အကြံပြုသည်)"
   },
   {
     "number": 1120,
@@ -3249,7 +3249,7 @@
         "english": "To judge, to appraise"
       }
     ],
-    "meaning": "တံဆိပ်တုံး"
+    "meaning": "mirror"
   },
   {
     "number": 1121,
@@ -3288,7 +3288,7 @@
         "english": "To offend, to jar"
       }
     ],
-    "meaning": "ထိခိုက်စေသည် / အနှောင့်အယှက်ဖြစ်စေသည်"
+    "meaning": "hinder (အနှောင့်အယှက်ဖြစ်စေသည်)"
   },
   {
     "number": 1122,
@@ -3309,7 +3309,7 @@
         "english": "Folk customs"
       }
     ],
-    "meaning": "ဓလေ့ထုံးစံ / အမူအကျင့်"
+    "meaning": "common"
   },
   {
     "number": 1123,
@@ -3330,7 +3330,7 @@
         "english": "Hard"
       }
     ],
-    "meaning": "မာကျောသော / ခိုင်မာသော"
+    "meaning": "hard (မာကျောသော / ခိုင်မာသော)"
   },
   {
     "number": 1124,
@@ -3369,7 +3369,7 @@
         "english": "To take"
       }
     ],
-    "meaning": "ရာထူး/အလုပ် ထမ်းဆောင်သည်"
+    "meaning": "take (ရာထူး/အလုပ် ထမ်းဆောင်သည်)"
   },
   {
     "number": 1125,
@@ -3396,7 +3396,7 @@
         "english": "To be inflexible"
       }
     ],
-    "meaning": "ဘဏ္ဍာရေး"
+    "meaning": "fuse (ဘဏ္ဍာရေး)"
   },
   {
     "number": 1126,
@@ -3432,7 +3432,7 @@
         "english": "To maintain"
       }
     ],
-    "meaning": "ထိန်းသိမ်းထားသည်"
+    "meaning": "rope"
   },
   {
     "number": 1128,
@@ -3474,7 +3474,7 @@
         "english": "To plan"
       }
     ],
-    "meaning": "ကြံစည်သည် / စီမံကိန်းဆွဲသည်"
+    "meaning": "attempt"
   },
   {
     "number": 1130,
@@ -3501,7 +3501,7 @@
         "english": "A trunk"
       }
     ],
-    "meaning": "သစ်ပင်ပင်စည်"
+    "meaning": "trunk (သစ်ပင်ပင်စည်)"
   },
   {
     "number": 1131,
@@ -3534,7 +3534,7 @@
         "english": "Useful, profitable"
       }
     ],
-    "meaning": "အရှုံးနှင့် အမြတ်"
+    "meaning": "Profit/Benefit (အမြတ်)"
   },
   {
     "number": 1132,
@@ -3555,7 +3555,7 @@
         "english": "To refrain"
       }
     ],
-    "meaning": "ထိန်းသိမ်းသည် / ဆင်ခြင်သည်"
+    "meaning": "Prudent (သတိကြီးသော)"
   },
   {
     "number": 1133,
@@ -3603,7 +3603,7 @@
         "english": "To rise, to fry"
       }
     ],
-    "meaning": "မြင့်တက်သည် / ကြော်ပြီးဖြစ်သည်"
+    "meaning": "rise (မြင့်တက်သည်)"
   },
   {
     "number": 1135,
@@ -3651,7 +3651,7 @@
         "english": "Policy"
       }
     ],
-    "meaning": "အစီအစဉ် / အကြံအစည်"
+    "meaning": "scheme (အစီအစဉ် / အကြံအစည်)"
   },
   {
     "number": 1137,
